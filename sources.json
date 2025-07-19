@@ -1,0 +1,10 @@
+{
+  "name": "My Sources",
+  "sources": [
+    {
+      "name": "NightScans",
+      "url": "raw.githubusercontent.com/missinghoshi/NS-Source/main/nightscans.aix",
+      "lang": "en"
+    },
+  ]
+}
